@@ -16,7 +16,7 @@ modalidad Trato Directo en la Región de Los Lagos, Chile.
 - Caso Cochamó: anomalía detectada mediante análisis exploratorio humano
 
 ## 📂 Documentación completa
-[Ver caso de estudio en Notion →](#) ← aquí pegas tu link de Notion
+https://sudden-lynx-f32.notion.site/CAMILA-AMPUERO-2f5520aad6a08059ad87ec6b2efa488f?p=34a520aad6a080769884db0b53ec477f&pm=c
 
 ## 👩‍💻 Autora
 Camila Ampuero — Data & Business Analyst
